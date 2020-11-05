@@ -1,0 +1,94 @@
+.watch {
+    background-color: black;
+    display: flex;
+    
+}
+.watch__menu {
+    padding-top: 50px;
+}
+.season {
+    padding-top: 50px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+.svg {
+    text-align: center;
+    padding-top: 20px;
+}
+.watches {
+   padding-top: 40px;
+   display: flex;
+   justify-content: space-between;
+   margin-right: 30px;
+   margin-left: 20px;
+    
+}
+.watch__img {    
+    padding: 55px 20px 55px 35px;
+    background-color: #191B1C;
+    
+}
+.pryse {
+    display: flex;
+    color: white;
+   justify-content: space-around;
+   padding-top: 40px;
+}
+.pryse h3 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+}
+.pryse span {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 21px;
+    color: #D0D0D0;
+}
+.back__watch {
+    background: url('/images/back.watch.jpg') no-repeat center;
+    width: 880px;
+    height: 730px; 
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+}
+.back__watch h4 {
+   color: white;
+}
+.colections {
+    padding-top: 500px;
+}
+.colections h4 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+.catalog {
+    padding-top: 40px;
+}
+.catalog a  {
+    padding: 10px 20px 10px 20px;
+    border: 1px solid #fff;
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
