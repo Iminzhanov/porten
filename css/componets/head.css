@@ -1,0 +1,17 @@
+.head {
+    background-color: black;
+    padding: 20px 0 20px;
+}
+.head a {
+    text-decoration: none;
+}
+.first__head {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.number {
+    padding-left: 10px;
+    color: #969696;
+}
+
