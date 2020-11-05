@@ -16,11 +16,22 @@
 .menu a {
     color: white;
     text-decoration: none;
-    padding-left: 40px;
     text-align: center;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 18px;
     text-transform: uppercase;
+    padding-left: 50px;
+}
+
+.menu li:hover {
+   background-color:yellow;
+   padding: 20px 20px;
+}
+.menu a:hover {
+    color: black;
+    font-size: 20px;
+    padding: 10px 10px;
+    text-align: center;
 }
