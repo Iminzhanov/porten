@@ -1,0 +1,38 @@
+.collection {
+    background-color: black;
+    display: flex;
+    text-align: center;
+}
+.h__2018 {
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 150px;
+}
+.collection__2018 p{
+    width: 100%;
+    color: white;
+    padding: 20px 200px 50px 200px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 150%;
+}
+.collection a {
+    padding: 12px 20px;
+    color: white;
+    text-decoration: none;
+    border: 1px solid #fff;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+}
