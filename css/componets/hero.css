@@ -1,0 +1,22 @@
+.hero {
+    background: url('/images/back__logo.png') no-repeat center;
+    height: 810px;
+}
+.hero__logo {
+    text-align: center;
+    padding-top: 160px;
+}
+.hero__text {
+    text-align: center;
+}
+.hero__text p {
+    padding-top: 80px;
+    color: white;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    text-transform: uppercase;
+
+}
